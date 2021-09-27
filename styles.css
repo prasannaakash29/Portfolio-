@@ -69,11 +69,12 @@ Project
 
 #project {
   margin: 60px, auto;
-  width: 60%;
-  text-align: center;
+  width: 80%;
+  align-items: center;
 }
 #project h2 {
   text-align: center;
+  font-weight: bold;
 }
 #project .card img {
   width: 100%;
