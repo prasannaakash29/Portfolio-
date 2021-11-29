@@ -1,23 +1,26 @@
-/********************
+/**********************
 
-common
+COMMON
 
-*********************/
+************************/
 
 body {
   font-family: "monospace", sans-serif;
-  background-color: azure;
 }
+
 .font-primary {
   color: #00abae;
 }
-.title-icon {
+
+.title.icon {
   font-size: 20px;
   font-weight: bold;
 }
+
 p {
   font-size: 14px;
 }
+
 h2 {
   font-weight: bold;
   font-size: 23px;
@@ -26,65 +29,72 @@ h2 {
 a.font-black {
   color: #000 !important;
 }
-/******************
-About
-*******************/
+/*************
+
+ABOUT
+
+**************/
 
 #about {
   margin: 60px auto;
   max-width: 400px;
   text-align: center;
 }
+
 #about img {
+  border-radius: 50%;
   width: 120px;
   margin-bottom: 10px;
 }
+
 #about .name {
   font-size: 19px;
 }
+
 #about .vocation {
-  color: gray;
   font-size: 17px;
+  color: #ababab;
   margin-bottom: 10px;
 }
+
 #about .skills {
-  font-size: 15px;
+  font-size: 14px;
   color: #00abae;
   margin-bottom: 10px;
 }
+
 #about .email {
   margin-top: 14px;
   font-size: 14px;
 }
 #about .icons {
   margin-top: 20px;
-  font-size: 40px;
+  font-size: 30px;
+}
+
+#about .icons a {
   color: #000;
 }
-/***************************
 
-Project
- ***************************/
+/************
+
+PROJECT
+
+************/
 
 #project {
   margin: 60px auto;
   width: 80%;
-  align-items: center;
 }
+
 #project h2 {
   text-align: center;
-  font-weight: bold;
 }
+
 #project .card img {
   width: 100%;
 }
+
 #project .card-title {
   font-weight: bold;
-}
-#project .card a .btn btn-secondary {
-  color: grey;
-}
-#project .card {
-  align-items: center;
-  margin-left: 5%;
 }
