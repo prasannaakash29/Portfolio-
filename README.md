@@ -4,7 +4,8 @@ This portfolio is a small project using HTML / CSS / BootStrap. I will be using 
 
 [Live Heroku_Deployement](https://portfolio-prasanna.herokuapp.com/)
 
-![Screenshot 2021-09-27 at 7 23 48 AM](https://user-images.githubusercontent.com/90886942/137236412-8b3d0967-7895-472c-9a36-99db4d594267.png)
+![Screenshot 2021-10-20 at 2 19 43 PM](https://user-images.githubusercontent.com/90886942/138060821-df5600c7-9691-4d9b-ab81-111425a6065e.png)
+
 
 ## Technologies used
 
