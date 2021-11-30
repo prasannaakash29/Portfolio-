@@ -98,3 +98,8 @@ PROJECT
 #project .card-title {
   font-weight: bold;
 }
+#project .project-video {
+  width: 100%;
+  max-height: 270px;
+  background-color: #000;
+}
